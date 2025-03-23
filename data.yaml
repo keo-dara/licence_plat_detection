@@ -1,0 +1,6 @@
+
+train: ./content/datasets/license-plate-dataset/archive/images/train
+val: ./content/datasets/license-plate-dataset/archive/images/val
+
+nc: 1  # Number of classes
+names: ['license_plate']  # Class names
